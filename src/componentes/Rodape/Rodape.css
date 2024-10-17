@@ -1,0 +1,17 @@
+.rodape {
+    background-color: #6278f7;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rodape .redes img{
+    padding: 20px;
+}
+
+.rodape .texto {
+    color: white;
+    font-size: large;
+    font-weight: 400;
+}
